@@ -1,0 +1,69 @@
+baseURL = "http://adrien.webrush.fr/"
+languageCode = "en-us"
+title = "Adrien Tiburce"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+
+[params]
+    author = "Adrien Tiburce"
+    description = "My personal webiste with some articles and my __coolest projects__ "
+    profilePic = "img/adrien-profile.png"
+    repoHost = "none"
+    #githubUsername = "adrientiburce"
+    accent = "#822337"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true 
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go"] # used to load more languages
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
+
+[[menu.main]]
+    url = "https://developer.webrush.fr"
+    name = "Notes"
+    weight = 5
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 6
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+#[[menu.icon]]
+#    url = "mailto:me@example.com"
+#    name = "fas fa-envelope"
+#    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/adrientiburce/"
+    name = "fab fa-github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/adrientiburce-centralelille"
+    name = "fab fa-linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://stackoverflow.com/users/11619849/a-ecrubit"
+    name = "fab fa-stack-overflow"
+    weight = 5
