@@ -1,4 +1,4 @@
-baseURL = "http://adrien.webrush.fr/"
+baseURL = "https://adrien-blog.netlify.app"
 languageCode = "en-us"
 title = "Adrien Tiburce"
 theme = "minimal"
