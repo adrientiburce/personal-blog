@@ -6,6 +6,20 @@ weight: 3
 draft: false
 ---
 
+## Showcase
+
+- Home Feed
+
+
+
+![deal-maker-home](/deal-maker/home.png)
+![deal-maker-home](/deal-maker/profile.png)
+
+</div>
+
+<!-- <img src="/deal-maker/home.png" alt="drawing" style="width:200px;"/> -->
+
+<!-- <img src="deal-maker/home.png" alt="drawing" width="200"/> -->
 
 ## FrontEnd : React Native
 

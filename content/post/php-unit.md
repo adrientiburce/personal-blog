@@ -46,7 +46,7 @@ In order to get color highlight in our terminal we can configure our `phpunit.xm
 *   Running **only one test** :`./bin/phpunit Tests/AmountTest.php --filter=testTotalAmount`
 
 
-![result colored](https://cdn.hashnode.com/res/hashnode/image/upload/v1598105143730/2-SRlshbc.png)
+![result colored](/post/php-testing/preview.png)
 
 Result of our tests
 
@@ -111,6 +111,6 @@ Using the previous configuration, this command will run our tests again but than
 
 <br />
 
-![code report](https://cdn.hashnode.com/res/hashnode/image/upload/v1598105158184/lox1rHYDh.png)
+![code report](/post/php-testing/coverage.png)
 
 The html coverage report can now be found at the `target` location configured in our `phpunit.coverage.xml` , in our case : `.log/codeCoverage`
