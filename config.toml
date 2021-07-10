@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Adrien Tiburce"
-    description = "My personal webiste with some articles and my __coolest projects__ "
+    description = "My personal webiste with *some articles* and my *coolest projects*"
     profilePic = "img/adrien-profile.png"
     repoHost = "none"
     #githubUsername = "adrientiburce"
