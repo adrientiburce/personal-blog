@@ -8,12 +8,16 @@ draft: false
 
 ## Showcase
 
-- Home Feed
 
 
+![deal-maker](/deal-maker/home.png)
+![deal-maker](/deal-maker/profile.png)
 
-![deal-maker-home](/deal-maker/home.png)
-![deal-maker-home](/deal-maker/profile.png)
+------
+
+
+![deal-maker](/deal-maker/deal-view.png)
+![deal-maker](/deal-maker/new-deal.png)
 
 </div>
 
